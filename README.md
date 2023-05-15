@@ -1,3 +1,7 @@
+# Update for SASS 2
+
+https://sass-lang.com/d/slash-div
+
 # Steps component for Bulma
 
 This is an extensions for the [Bulma CSS Framework](http://bulma.io). It adds a `steps` component to
